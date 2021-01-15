@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testePOO\testePOO\bin\Debug\testePOO.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testePOO\testePOO\bin\Debug\testePOO.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testePOO\testePOO\obj\x86\Debug\testePOO.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testePOO\testePOO\obj\x86\Debug\testePOO.pdb
